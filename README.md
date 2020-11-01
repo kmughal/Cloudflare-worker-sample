@@ -5,3 +5,5 @@ You can serve json data or you can build SSR pages if you are using any SPA fram
 
 
 It uses Cloudflare wrangler tool for preview and publish!
+https://cloudflare-workers-sample.kmughal.workers.dev/
+https://cloudflare-workers-sample.kmughal.workers.dev/line-status
