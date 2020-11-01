@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "cloudflare-workers-sample",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  
+  "scripts": {
+    "preview": "wrangler preview",
+    "format": "prettier --write '**/*.{js,css,json,md}'",
+    "publish" : "wrangler publish"
+  },
+  "author": "Khurram Mughal",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "@cloudflare/wrangler": "1.11.0"
+  }
+}
